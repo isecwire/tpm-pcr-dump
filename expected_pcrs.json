@@ -1,0 +1,14 @@
+{
+  "bank": "sha256",
+  "description": "Golden PCR values for secure boot verification — example",
+  "pcrs": {
+    "0":  "3d458cfe55cc03ea1f443f1562beec8df51c75e14a9fcf9a7234a13f198e7969",
+    "1":  "b7e36f4e0475b6f0ccba8b7f1b9b4c8a5f24c1d01e72d58a2c83e0a65f6e4d12",
+    "2":  "3d458cfe55cc03ea1f443f1562beec8df51c75e14a9fcf9a7234a13f198e7969",
+    "3":  "3d458cfe55cc03ea1f443f1562beec8df51c75e14a9fcf9a7234a13f198e7969",
+    "4":  "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2",
+    "5":  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "6":  "3d458cfe55cc03ea1f443f1562beec8df51c75e14a9fcf9a7234a13f198e7969",
+    "7":  "65c4c418b18ee3bb96d77f8df7f1e3a8b3f09c7ea2a43e6ef14c18e9b36f2d80"
+  }
+}
