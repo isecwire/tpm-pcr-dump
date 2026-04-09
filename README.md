@@ -1,5 +1,9 @@
 # tpm-pcr-dump v2.1.0
 
+[![CI](https://github.com/isecwire/tpm-pcr-dump/actions/workflows/ci.yml/badge.svg)](https://github.com/isecwire/tpm-pcr-dump/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![C](https://img.shields.io/badge/C-11-blue.svg)](https://en.wikipedia.org/wiki/C11_(C_standard_revision))
+
 Advanced TPM 2.0 PCR (Platform Configuration Register) reader, event log parser, PCR simulator, and attestation tool.
 Pure C11, minimal dependencies, designed for embedded Linux systems.
 
